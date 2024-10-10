@@ -1,6 +1,10 @@
-Java SE
-//desktop application  and xampp 
-Java Swing
-Apache Tomcat 9.1
-MySQL
-Xampp Server
+# Desktop Application  - POS and Inventory Management System
+# Features
+* QRCode Generator/Scanner
+* Generation of Reports
+* Stocks Monitoring
+  
+# Languages
+* Java
+* XAMPP Server (Apache, MySQL)
+* Jasper Report
